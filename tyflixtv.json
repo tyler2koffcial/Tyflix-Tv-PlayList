@@ -194,7 +194,6 @@
       }
     }
   },
-
   {
     "name": "One PH",
     "logo": "https://i.imgur.com/gkluDe9.png",
@@ -760,12 +759,12 @@
     "logo": "https://linear-poster.astro.com.my/prod/logo/SPOTV.png",
     "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
     "clearKeys": {
-      "ec7ee27d83764e4b845c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
+      "ec7ee27d83764e4b445c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
     },
     "drm": {
       "clearkey": {
         "keys": {
-          "ec7ee27d83764e4b845c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
+          "ec7ee27d83764e4b445c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
         }
       }
     }
@@ -994,236 +993,5 @@
         }
       }
     }
-  },
-  {
-    "name": "Celestial Movies Pinoy",
-    "logo": "https://i.imgur.com/e5IZsv3.png",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd",
-    "clearKeys": {
-      "0f8537d8412b11edb8780242ac120002": "2ffd7230416150fd5196fd7ea71c36f3"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "0f8537d8412b11edb8780242ac120002": "2ffd7230416150fd5196fd7ea71c36f3"
-        }
-      }
-    }
-  },
-  {
-    "name": "Disney Jr.",
-    "logo": "https://i.imgur.com/Qi0t6qm.png",
-    "url": "https://fl61.moveonjoy.com/DISNEY_JR/index.m3u8"
-  },
-  {
-    "name": "HITS Movies",
-    "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/index.mpd",
-    "clearKeys": {
-      "f56b57b32d7e4b2cb21748c0b56761a7": "3df06a89aa01b32655a77d93e09e266f"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "f56b57b32d7e4b2cb21748c0b56761a7": "3df06a89aa01b32655a77d93e09e266f"
-        }
-      }
-    }
-  },
-  {
-    "name": "THRILL",
-    "logo": "https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/smart/width/250/height/250",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd",
-    "clearKeys": {
-      "928114ffb2394d14b5585258f70ed183": "a82edc340bc73447bac16cdfed0a4c62"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "928114ffb2394d14b5585258f70ed183": "a82edc340bc73447bac16cdfed0a4c62"
-        }
-      }
-    }
-  },
-  {
-    "name": "Lotus Macao",
-    "logo": "https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd",
-    "clearKeys": {
-      "60dc692e64ea443a8fb5ac186c865a9b": "01bdbe22d59b2a4504b53adc2f606cc1"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "60dc692e64ea443a8fb5ac186c865a9b": "01bdbe22d59b2a4504b53adc2f606cc1"
-        }
-      }
-    }
-  },
-  {
-    "name": "Discovery Channel",
-    "logo": "https://cantseeus.com/wp-content/uploads/2023/10/discov.png",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd",
-    "clearKeys": {
-      "d9ac48f5131641a789328257e778ad3a": "b6e67c37239901980c6e37e0607ceee6"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "d9ac48f5131641a789328257e778ad3a": "b6e67c37239901980c6e37e0607ceee6"
-        }
-      }
-    }
-  },
-  {
-    "name": "Asian Food Network",
-    "logo": "https://i.imgur.com/O5jBcL2.png",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd",
-    "clearKeys": {
-      "1619db30b9ed42019abb760a0a3b5e7f": "5921e47fb290ae263291b851c0b4b6e4"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "1619db30b9ed42019abb760a0a3b5e7f": "5921e47fb290ae263291b851c0b4b6e4"
-        }
-      }
-    }
-  },
-  {
-    "name": "NHK World Japan",
-    "logo": "https://i.imgur.com/3zp7a0B.png",
-    "url": "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd",
-    "clearKeys": {
-      "3d6e9d4de7d7449aadd846b7a684e564": "0800fff80980f47f7ac6bc60b361b0cf"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "3d6e9d4de7d7449aadd846b7a684e564": "0800fff80980f47f7ac6bc60b361b0cf"
-        }
-      }
-    }
-  },
-  {
-    "name": "Animal Planet",
-    "logo": "https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd",
-    "clearKeys": {
-      "436b69f987924fcbbc06d40a69c2799a": "c63d5b0d7e52335b61aeba4f6537d54d"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "436b69f987924fcbbc06d40a69c2799a": "c63d5b0d7e52335b61aeba4f6537d54d"
-        }
-      }
-    }
-  },
-  {
-    "name": "KBS World",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd",
-    "clearKeys": {
-      "22ff2347107e4871aa423bea9c2bd363": "c6e7ba2f48b3a3b8269e8bc360e60404"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "22ff2347107e4871aa423bea9c2bd363": "c6e7ba2f48b3a3b8269e8bc360e60404"
-        }
-      }
-    }
-  },
-  {
-    "name": "CNN International",
-    "logo": "http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd",
-    "clearKeys": {
-      "900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90": "da315cca7f2902b4de23199718ed7e90"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "900c43f0e02742dd854148b7a75abbec": "da315cca7f2902b4de23199718ed7e90"
-        }
-      }
-    }
-  },
-  {
-    "name": "France24",
-    "logo": "https://i.imgur.com/61MSiq9.png",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/france24/default/index.mpd",
-    "clearKeys": {
-      "257f9fdeb39d41bdb226c2ae1fbdaeb6": "e80ead0f4f9d6038ab34f332713ceaa5"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "257f9fdeb39d41bdb226c2ae1fbdaeb6": "e80ead0f4f9d6038ab34f332713ceaa5"
-        }
-      }
-    }
-  },
-  {
-    "name": "IBC 13",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd",
-    "clearKeys": {
-      "16ecd238c0394592b8d3559c06b1faf5": "05b47ae3be1368912ebe28f87480fc84"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "16ecd238c0394592b8d3559c06b1faf5": "05b47ae3be1368912ebe28f87480fc84"
-        }
-      }
-    }
-  },
-  {
-    "name": "One Sports HD",
-    "logo": "https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd",
-    "clearKeys": {
-      "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
-        }
-      }
-    }
-  },
-  {
-    "name": "Premier Sports",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/63/Premier_Sports_logo_final.png/revision/latest?cb=20210920130931",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd",
-    "clearKeys": {
-      "b8b595299fdf41c1a3481fddeb0b55e4": "cd2b4ad0eb286239a4a022e6ca5fd007"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "b8b595299fdf41c1a3481fddeb0b55e4": "cd2b4ad0eb286239a4a022e6ca5fd007"
-        }
-      }
-    }
-  },
-  {
-    "name": "Animax",
-    "logo": "https://i.imgur.com/MiUDLVa.png",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd",
-    "clearKeys": {
-      "92032b0e41a543fb9830751273b8debd": "03f8b65e2af785b10d6634735dbe6c11"
-    },
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "92032b0e41a543fb9830751273b8debd": "03f8b65e2af785b10d6634735dbe6c11"
-        }
-      }
-    }
   }
 ]
-
