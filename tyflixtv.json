@@ -909,5 +909,11 @@
             }
         }
     },
-    
+    {
+        "id": "animax",
+        "name": "Animax",
+        "group": "CIGNAL",
+        "logo": "https://i.imgur.com/MiUDLVa.png",
+        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd"
+    }
 ]
