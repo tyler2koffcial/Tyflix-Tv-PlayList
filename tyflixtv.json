@@ -1,4 +1,4 @@
-[
+
   {
     "id": "tv5_hd",
     "name": "TV5",
@@ -17,6 +17,16 @@
     "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd",
     "clearKeys": {
       "f703e4c8ec9041eeb5028ab4248fa094": "c22f2162e176eee6273a5d0b68d19530"
+    }
+  }
+    {
+    "id": "kapamilya",
+    "name": "Kapamilya",
+    "group": "TyFlix Tv",
+    "logo": "https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/0658dc63-df4c-4ed6-ab72-8b7c39f2c13f/index.mpd",
+    "clearKeys": {
+      "bd17afb5dc9648a39be79ee3634dd4b8": "b475084a1a58857e18480e30fbb0e544"
     }
   }
 ]
