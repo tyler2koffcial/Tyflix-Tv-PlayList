@@ -1,5 +1,187 @@
 [
     {
+        "id": "kapamilya",
+        "name": "Kapamilya Channel",
+        "group": "CIGNAL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_lAQAm3tHB_kvFBpnLwpM4kQnRmMg8kJAA&s",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/0658dc63-df4c-4ed6-ab72-8b7c39f2c13f/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "bd17afb5dc9648a39be79ee3634dd4b8": "b475084a1a58857e18480e30fbb0e544"
+                }
+            }
+        }
+    },
+    {
+        "id": "gma_pinoy",
+        "name": "GMA Pinoy TV",
+        "group": "CIGNAL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",
+        "url": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981"
+                }
+            }
+        }
+    },
+    {
+        "id": "gma_life",
+        "name": "GMA Life TV",
+        "group": "CIGNAL",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/330px-GMA_Life_TV_logo.png",
+        "url": "https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "5d308ef487f54107b7da758e195ecbd3": "9d4004d4c065dd4b85ad5bd12c35386f"
+                }
+            }
+        }
+    },
+    {
+        "id": "gma_news",
+        "name": "GMA News",
+        "group": "CIGNAL",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/GMA_News_2026_logo.svg/1280px-GMA_News_2026_logo.svg.png",
+        "url": "https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855"
+                }
+            }
+        }
+    },
+    {
+        "id": "tfc_asia",
+        "name": "TFC Asia",
+        "group": "CIGNAL",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/25ab8b80-f9ce-4938-8e8c-8c54db52d319/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "9568cc84e1d944f38eac304517eab6fd": "2c8306892361e3fba18cb142f31ec775"
+                }
+            }
+        }
+    },
+    {
+        "id": "anc_ph",
+        "name": "ANC PH",
+        "group": "CIGNAL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHIln5cDMP8lMAqrOLvJhd7X_gwUmOS-IAYgltYPKYA&s=10",
+        "url": "https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "b6d6e536f8fa4d8b93627af0128cf00d": "e73c8dcfdea374ae576ced342f6c73a2"
+                }
+            }
+        }
+    },
+    {
+        "id": "anc_global",
+        "name": "ANC Global",
+        "group": "CIGNAL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHIln5cDMP8lMAqrOLvJhd7X_gwUmOS-IAYgltYPKYA&s=10",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/1af026df-9cc3-400f-83b0-c51c8b12bd93/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "4bbdc78024a54662854b412d01fafa16": "8c6c920cf3f7df2087b0ae1a4a8c6058"
+                }
+            }
+        }
+    },
+    {
+        "id": "dzmm_teleradyo",
+        "name": "DZMM Teleradyo",
+        "group": "CIGNAL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkpVt9uTt9izp0qiXdSPZHmjCBYGu_MDG9_ZgLPU-4A&s=10",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/c60be0fd-e4f6-463b-bcfc-f81b99e2bb46/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "47c093e0c9fd4f80839a0337da3dd876": "603248b858276f533a13e17f2f48c711"
+                }
+            }
+        }
+    },
+    {
+        "id": "cinema_one_ph",
+        "name": "Cinema One PH",
+        "group": "CIGNAL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-_E4uHLFlC4ddwrEV5sD35RzV68aNyJo6c7fgtU-ww&s=10",
+        "url": "https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "55eddd1e157e4c3b830866e4679e7032": "525030e984567ba8df0af80660952368"
+                }
+            }
+        }
+    },
+    {
+        "id": "cinema_one_global",
+        "name": "Cinema One Global",
+        "group": "CIGNAL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-_E4uHLFlC4ddwrEV5sD35RzV68aNyJo6c7fgtU-ww&s=10",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/f9468bfb-cac7-4752-829b-04bc0c6e8cc1/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "58d0e56991194043b8fb82feb4db7276": "c116c612201e178193693eced13d7319"
+                }
+            }
+        }
+    },
+    {
+        "id": "cinemo",
+        "name": "Cinemo",
+        "group": "CIGNAL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Z0My3pXCvtgiJH1p7abK8LJ1z2tSJx_MSmAgxlIO0g&s=10",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/23def904-e032-4cfa-80b0-68e111537206/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "aa8aebe35ccc4541b7ce6292efcb1bfb": "f06b6031a3604cc6708c14d83f1a1b27"
+                }
+            }
+        }
+    },
+    {
+        "id": "myx",
+        "name": "MYX",
+        "group": "CIGNAL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqS47XgqGjIOjtTs2z7_UvJigonHRYG_Y7BgcXEiJtEA&s=10",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/9e082ce2-dca1-457a-8511-9e861102f561/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "f40a52a3ac9b4702bdd5b735d910fd2f": "35e4893c6e76546085941be3010932d4"
+                }
+            }
+        }
+    },
+    {
+        "id": "movies_now",
+        "name": "Movies Now",
+        "group": "CIGNAL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHdOEgVOsdURr5SwJg-k6trNOtLJXCuWNK5g_S3rqkw&s=10",
+        "url": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keys": {
+                    "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+                }
+            }
+        }
+    },
+    {
         "id": "jeepney-tv",
         "name": "Jeepney Tv",
         "group": "CIGNAL",
